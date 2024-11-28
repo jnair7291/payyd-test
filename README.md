@@ -35,4 +35,4 @@ The project is divided into four main controllers:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/payyd-test-project.git](https://github.com/jnair7291/payyd-test.git)
+   https://github.com/jnair7291/payyd-test.git
