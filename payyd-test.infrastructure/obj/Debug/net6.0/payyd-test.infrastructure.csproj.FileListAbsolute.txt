@@ -1,0 +1,5 @@
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.infrastructure\obj\Debug\net6.0\payyd-test.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.infrastructure\obj\Debug\net6.0\payyd-test.infrastructure.AssemblyInfoInputs.cache
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.infrastructure\obj\Debug\net6.0\payyd-test.infrastructure.AssemblyInfo.cs
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.infrastructure\obj\Debug\net6.0\payyd-test.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.infrastructure\obj\Debug\net6.0\payyd-test.infrastructure.sourcelink.json

@@ -10,7 +10,10 @@
 
   <ItemGroup>
     <Folder Include="Common\" />
-    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\payyd-test.application\payyd-test.application.csproj" />
   </ItemGroup>
 
 </Project>

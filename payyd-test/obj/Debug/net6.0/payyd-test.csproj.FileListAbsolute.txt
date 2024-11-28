@@ -62,3 +62,4 @@ C:\Users\JijoNRCG\Documents\payyd-test\payyd-test\obj\Debug\net6.0\refint\payyd-
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test\obj\Debug\net6.0\payyd-test.pdb
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test\obj\Debug\net6.0\payyd-test.genruntimeconfig.cache
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test\obj\Debug\net6.0\ref\payyd-test.dll
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test\obj\Debug\net6.0\payyd-test.sourcelink.json

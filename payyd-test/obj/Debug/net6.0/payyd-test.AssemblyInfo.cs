@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("payyd-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac3dc2e5d1238a3b4c7608aff8fa44902977bbcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("payyd-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("payyd-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

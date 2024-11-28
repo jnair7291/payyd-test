@@ -11,16 +11,6 @@
         "runtime": {
           "bin/placeholder/payyd-test.domain.dll": {}
         }
-      },
-      "payyd-test.infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/payyd-test.infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/payyd-test.infrastructure.dll": {}
-        }
       }
     }
   },
@@ -29,17 +19,11 @@
       "type": "project",
       "path": "../payyd-test.domain/payyd-test.domain.csproj",
       "msbuildProject": "../payyd-test.domain/payyd-test.domain.csproj"
-    },
-    "payyd-test.infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../payyd-test.infrastructure/payyd-test.infrastructure.csproj",
-      "msbuildProject": "../payyd-test.infrastructure/payyd-test.infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "payyd-test.domain >= 1.0.0",
-      "payyd-test.infrastructure >= 1.0.0"
+      "payyd-test.domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,9 +55,6 @@
           "projectReferences": {
             "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.domain\\payyd-test.domain.csproj": {
               "projectPath": "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.domain\\payyd-test.domain.csproj"
-            },
-            "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.infrastructure\\payyd-test.infrastructure.csproj": {
-              "projectPath": "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.infrastructure\\payyd-test.infrastructure.csproj"
             }
           }
         }

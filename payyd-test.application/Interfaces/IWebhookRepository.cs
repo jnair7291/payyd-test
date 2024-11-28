@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace payyd_test.application.Interfaces
 {
-    internal interface IWebhookRepository
+    public interface IWebhookRepository
     {
     }
 }
