@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "D7IKMDxpe+jDfvSXkqIt0XMBNEXlCyuWHgURnfpYubo=",
-  "Source": "payyd-test",
-  "BasePath": "_content/payyd-test",
+  "Hash": "8MCuLdLw8GE2HGvt2olxHvgs0bqkebkrWjwtPA/Rc4k=",
+  "Source": "payyd-test.services",
+  "BasePath": "_content/payyd-test.services",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

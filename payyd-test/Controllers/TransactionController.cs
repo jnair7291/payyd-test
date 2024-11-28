@@ -6,8 +6,8 @@ namespace payyd_test.Controllers
     [Route("[controller]")]
     public class TransactionController : ControllerBase
     {
-        [HttpGet(Name = "GetTransactionsDetails")]
-        public IActionResult Index()
+        [HttpPost(Name = "MakePaymentForCustomer")]
+        public IActionResult MakePaymentForCustomer(int custoemrId)
         {
             return null;
         }

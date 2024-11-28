@@ -6,8 +6,20 @@ namespace payyd_test.Controllers
     [Route("[controller]")]
     public class WalletController : ControllerBase
     {
-        [HttpGet(Name = "GetWallteruserDetails")]
-        public IActionResult Index()
+        [HttpPost(Name = "CreateTemporaryCardForPurchase")]
+        public IActionResult CreateTemporaryCardForPurchase()
+        {
+            return null;
+        }
+
+        [HttpPost(Name = "CreateCardOnFile")]
+        public IActionResult CreateCardOnFile()
+        {
+            return null;
+        }
+
+        [HttpPost(Name = "AddCreditstoCard")]
+        public IActionResult AddCreditstoCard()
         {
             return null;
         }

@@ -7,10 +7,24 @@ namespace payyd_test.Controllers
     [Route("[controller]")]
     public class UserController : ControllerBase
     {
-        [HttpGet(Name = "GetUserDetails")]
-        public Task<IActionResult> Index()
+        [HttpGet(Name = "GetCustomerDtails")]
+        public Task<IActionResult> GetMyCustomers()
         {
             return null;
         }
+
+        [HttpPost(Name = "CreateCustomer")]
+        public Task<IActionResult> CreateCustomerOnPG()
+        {
+            return null;
+        }
+
+        [HttpGet(Name = "GetCustomerDtailsById")]
+        public Task<IActionResult> GetCustomerDetailsById()
+        {
+            return null;
+        }
+
+
     }
 }

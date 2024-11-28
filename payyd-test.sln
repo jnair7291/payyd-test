@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payyd-test", "payyd-test\payyd-test.csproj", "{D91A0511-1A28-4D32-93EA-277CC14D8E4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "payyd-test", "payyd-test\payyd-test.csproj", "{D91A0511-1A28-4D32-93EA-277CC14D8E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payyd-test.application", "payyd-test.application\payyd-test.application.csproj", "{E2329044-77E1-422B-BB0C-24CF91DAE6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payyd-test.domain", "payyd-test.domain\payyd-test.domain.csproj", "{79EA932D-DB9F-4AB8-B157-66FA8FF6514E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payyd-test.infrastructure", "payyd-test.infrastructure\payyd-test.infrastructure.csproj", "{645210C0-CEE4-489A-9695-91C051A68860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{D91A0511-1A28-4D32-93EA-277CC14D8E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D91A0511-1A28-4D32-93EA-277CC14D8E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D91A0511-1A28-4D32-93EA-277CC14D8E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2329044-77E1-422B-BB0C-24CF91DAE6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2329044-77E1-422B-BB0C-24CF91DAE6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2329044-77E1-422B-BB0C-24CF91DAE6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2329044-77E1-422B-BB0C-24CF91DAE6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EA932D-DB9F-4AB8-B157-66FA8FF6514E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EA932D-DB9F-4AB8-B157-66FA8FF6514E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EA932D-DB9F-4AB8-B157-66FA8FF6514E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EA932D-DB9F-4AB8-B157-66FA8FF6514E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645210C0-CEE4-489A-9695-91C051A68860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645210C0-CEE4-489A-9695-91C051A68860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645210C0-CEE4-489A-9695-91C051A68860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645210C0-CEE4-489A-9695-91C051A68860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,7 @@ namespace payyd_test.Controllers
     [Route("[controller]")]
     public class ThirdPartyController : ControllerBase
     {
-        [HttpGet(Name = "GetConfigsDetails")]
+        [HttpPost(Name = "GetMerchantDetails")]
         public IActionResult Index()
         {
             return null;

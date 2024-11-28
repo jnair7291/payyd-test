@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\payyd-test.services.props" />
+</Project>

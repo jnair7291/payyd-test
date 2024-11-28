@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.domain\\payyd-test.domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.domain\\payyd-test.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.domain\\payyd-test.domain.csproj",
+        "projectName": "payyd-test.domain",
+        "projectPath": "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.domain\\payyd-test.domain.csproj",
+        "packagesPath": "C:\\Users\\JijoNRCG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JijoNRCG\\Documents\\payyd-test\\payyd-test.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JijoNRCG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
