@@ -9,8 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\payyd-test.domain\payyd-test.domain.csproj" />
+    <ProjectReference Include="..\payyd-test.infrastructure\payyd-test.infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
