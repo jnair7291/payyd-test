@@ -10,7 +10,7 @@ namespace payyd_test.application.Interfaces
 {
     public interface ICustomerRepository
     {
-        public Task<ResultOrError<string, ErrorResponse>> CreateCustomerOnPG();
+        public Task<ResultOrError<string, ErrorResponse>> CreateCustomerOnPG(int personId);
         public Task<ResultOrError<string, ErrorResponse>> GetAllCustomers();
         public Task<ResultOrError<string, ErrorResponse>> GetCustomerById();
 

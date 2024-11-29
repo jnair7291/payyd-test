@@ -1,5 +1,16 @@
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.csproj.AssemblyReference.cache
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.AssemblyInfoInputs.cache
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.AssemblyInfo.cs
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.csproj.CoreCompileInputs.cache
 C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.sourcelink.json
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\bin\Debug\net6.0\payyd-test.application.deps.json
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\bin\Debug\net6.0\payyd-test.application.dll
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\bin\Debug\net6.0\payyd-test.application.pdb
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\bin\Debug\net6.0\payyd-test.domain.dll
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\bin\Debug\net6.0\payyd-test.domain.pdb
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-te.BE7F11C8.Up2Date
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.dll
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\refint\payyd-test.application.dll
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\payyd-test.application.pdb
+C:\Users\JijoNRCG\Documents\payyd-test\payyd-test.application\obj\Debug\net6.0\ref\payyd-test.application.dll

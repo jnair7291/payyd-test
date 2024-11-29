@@ -3,7 +3,7 @@
 namespace payyd_test.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class WalletController : ControllerBase
     {
         [HttpPost(Name = "CreateTemporaryCardForPurchase")]

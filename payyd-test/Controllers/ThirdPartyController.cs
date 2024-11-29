@@ -3,7 +3,8 @@
 namespace payyd_test.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
+    [Produces("application/json", "text/json")]
     public class ThirdPartyController : ControllerBase
     {
         [HttpPost(Name = "GetMerchantDetails")]

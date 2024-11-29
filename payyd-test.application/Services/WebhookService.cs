@@ -1,4 +1,4 @@
-﻿:using payyd_test.application.Interfaces;
+﻿using payyd_test.application.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -17,8 +17,8 @@ namespace payyd_test.application.Services
             _customerRespository = customerRespository;
         }
 
-        public async Task<ResultOrError<string, ErrorResponse>> CreateCustomerOnPG() {
-            return await _customerRespository.CreateCustomerOnPG();
+        public async Task<ResultOrError<string, ErrorResponse>> CreateCustomerOnPG(int personId) {
+            return await _customerRespository.CreateCustomerOnPG(personId);
         }
         public async Task<ResultOrError<string, ErrorResponse>> GetAllCustomers() {
                 return await _customerRespository.GetAllCustomers();
